@@ -1,6 +1,6 @@
 /*This is a the software which will be used to controll a quadcopter
- * based on controller which uses an arduino nano as its main (and only) microprocessor
- * the on flight controller is a PCB with the following components:
+ * based on controller which uses an arduino nano as its microprocessor
+ * the on flight controller consists of a PCB with the following modules:
  * 1. Arduino nano
  * 2. nRF24L01+ transeiver
  * 3. MPU6050
